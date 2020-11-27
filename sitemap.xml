@@ -214,6 +214,27 @@
   </url>
   
   <url>
+    <loc>https://szc.me/tags/%E9%9B%85%E6%80%9D/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E5%87%BA%E5%9B%BD/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E5%A4%B1%E8%B4%A5/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://szc.me/tags/%E7%A5%9E%E8%88%9F/</loc>
     <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
@@ -243,27 +264,6 @@
   
   <url>
     <loc>https://szc.me/tags/%E9%97%B2%E8%81%8A/</loc>
-    <lastmod>2020-11-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szc.me/tags/%E9%9B%85%E6%80%9D/</loc>
-    <lastmod>2020-11-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szc.me/tags/%E5%87%BA%E5%9B%BD/</loc>
-    <lastmod>2020-11-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szc.me/tags/%E5%A4%B1%E8%B4%A5/</loc>
     <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
