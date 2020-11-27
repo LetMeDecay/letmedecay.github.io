@@ -2,94 +2,273 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://szc.me/post/9.html</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://szc.me/post/8.html</loc>
     
-    <lastmod>2019-04-22T04:00:00.000Z</lastmod>
+    <lastmod>2019-04-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/7.html</loc>
     
-    <lastmod>2019-02-03T06:59:29.000Z</lastmod>
+    <lastmod>2019-02-03</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/404/index.html</loc>
     
-    <lastmod>2018-10-25T15:00:04.000Z</lastmod>
+    <lastmod>2018-10-25</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/about/index.html</loc>
     
-    <lastmod>2018-10-25T08:33:10.000Z</lastmod>
+    <lastmod>2018-10-25</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/name/index.html</loc>
     
-    <lastmod>2018-10-25T08:07:48.000Z</lastmod>
+    <lastmod>2018-10-25</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/tags/index.html</loc>
     
-    <lastmod>2018-10-25T08:07:21.000Z</lastmod>
+    <lastmod>2018-10-25</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/categories/index.html</loc>
     
-    <lastmod>2018-10-25T08:06:58.000Z</lastmod>
+    <lastmod>2018-10-25</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/6.html</loc>
     
-    <lastmod>2018-09-30T09:53:24.000Z</lastmod>
+    <lastmod>2018-09-30</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/5.html</loc>
     
-    <lastmod>2018-09-15T02:48:07.000Z</lastmod>
+    <lastmod>2018-09-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/2.html</loc>
     
-    <lastmod>2018-08-27T11:09:46.000Z</lastmod>
+    <lastmod>2018-08-27</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/4.html</loc>
     
-    <lastmod>2018-08-26T10:54:00.000Z</lastmod>
+    <lastmod>2018-08-26</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/3.html</loc>
     
-    <lastmod>2018-08-24T11:23:53.000Z</lastmod>
+    <lastmod>2018-08-24</lastmod>
     
   </url>
   
   <url>
     <loc>https://szc.me/post/1.html</loc>
     
-    <lastmod>2018-07-18T09:12:38.000Z</lastmod>
+    <lastmod>2018-07-18</lastmod>
     
   </url>
+  
+
+  <url>
+    <loc>https://szc.me/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://szc.me/tags/Debian-9/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/Proxmox/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E5%BC%80%E5%B0%8F%E9%B8%A1/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E7%8B%AC%E7%AB%8BIP/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/nat/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/Telegram/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E6%8E%A8%E9%80%81/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/Bot/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E8%A1%A5%E7%A0%81/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/Typecho/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/CDN/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/MySQL/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E7%A5%9E%E8%88%9F/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/Z6S2/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/NVME/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/BIOS/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E9%97%B2%E8%81%8A/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E9%9B%85%E6%80%9D/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E5%87%BA%E5%9B%BD/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://szc.me/tags/%E5%A4%B1%E8%B4%A5/</loc>
+    <lastmod>2020-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
   
 </urlset>
